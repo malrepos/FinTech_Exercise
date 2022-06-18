@@ -1,5 +1,12 @@
 # FinTech_Exercise
 
+### Table of Contents
+
+- [Code](/code/)
+- [Data](/data/)
+- [Images](/images/)
+- [References](/references/)
+
 ## Who Am I?
 
 My name is Malcolm. I have done many jobs in the past, including carpentry and farming. I have travelled to many countries, especially in Europe and Asia. Unfortunately, I have a very bad memory of my past.
