@@ -6,7 +6,7 @@ My name is Malcolm. I have done many jobs in the past, including carpentry and f
 
 _I am torn between the country and the city_
 
-![Me](vlcsnap-2020-03-05-19h02m01s703.png)
+![Me](/images/vlcsnap-2020-03-05-19h02m01s703.png)
 
 ---
 
